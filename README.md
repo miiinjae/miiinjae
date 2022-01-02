@@ -1,4 +1,14 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Learn%20to%20Share,%20Share%20to%20Learn&fontSize=50)
+
+<div align="center">
+  <p >👋 Hi there!</p><br>
+  I'm MinJae Kim, a growing developer. 👩🏻‍💻<br>
+  I want to be a person who shares what I learned.<br>
+  <!--<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>-->
+  <br>
+  
+  [![Minjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=miinjae&count_private=true&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <!--
 **miiinjae/miiinjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
